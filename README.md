@@ -1,15 +1,10 @@
 # react-movie
 
-    Responsive React Movies App With API
+    Responsive React Movies App with tmdb API
 
-# Resource
-
-    Google font: https://fonts.google.com/
-
-    Boxicons: https://boxicons.com/
-
-    Images: https://unsplash.com/
+# API Link
 
     API: https://www.themoviedb.org/
 
 # Preview
+    
