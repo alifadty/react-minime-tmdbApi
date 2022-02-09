@@ -8,4 +8,4 @@
 
 # Preview
     
-    ![yaemori](https://user-images.githubusercontent.com/86978173/153164019-1e4e44b3-4417-4329-bfd0-5a09804671e8.jpg)
+    !["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721197-be990f3a-cae2-4757-9eb7-c0796f4a3834.png "Responsive React Movies App With API")
