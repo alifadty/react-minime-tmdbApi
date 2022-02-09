@@ -8,7 +8,7 @@
 
 # Preview
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721197-be990f3a-cae2-4757-9eb7-c0796f4a3834.png "Responsive React Movies App With API")
+!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/86978173/153166625-975cb360-f32d-444e-9e5c-bfe12ec2d10b.png "Responsive React Movies App With API")
 
 !["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721135-f64988cf-af31-495f-988c-c24ab10cbade.png "Responsive React Movies App With API")
 
@@ -18,3 +18,4 @@
 
 !["Responsive React Movies App With API"](https://user-images.githubusercontent.com/86978173/153165668-02879101-d5bc-48ac-b688-b90cd8f1f4a2.jpg "Responsive React Movies App With API")
 
+![capture_01](https://user-images.githubusercontent.com/86978173/153166625-975cb360-f32d-444e-9e5c-bfe12ec2d10b.PNG)
