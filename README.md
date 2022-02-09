@@ -10,12 +10,8 @@
 
 !["Responsive React Movies App With API"](https://user-images.githubusercontent.com/86978173/153166625-975cb360-f32d-444e-9e5c-bfe12ec2d10b.PNG "Responsive React Movies App With API")
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721135-f64988cf-af31-495f-988c-c24ab10cbade.png "Responsive React Movies App With API")
+!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/86978173/153166904-17eb1d43-47e8-4d49-80e2-8631883e5606.PNG "Responsive React Movies App With API")
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721056-733be8a6-7af6-424b-a74e-eb65980a5464.png "Responsive React Movies App With API")
+!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/86978173/153166897-daf682b9-065b-41ec-a4f4-07da57c35591.PNG "Responsive React Movies App With API")
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721118-cf5c59d2-31ff-4b06-86cb-262dd1b655fc.png "Responsive React Movies App With API")
-
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/86978173/153165668-02879101-d5bc-48ac-b688-b90cd8f1f4a2.jpg "Responsive React Movies App With API")
-
-![capture_01](https://user-images.githubusercontent.com/86978173/153166625-975cb360-f32d-444e-9e5c-bfe12ec2d10b.PNG)
+!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/86978173/153166902-0a2a626a-8cb1-46b5-9759-d059a835432b.PNG "Responsive React Movies App With API")
